@@ -1,6 +1,6 @@
 package car;
 
-import Utils.UserInput;
+import utils.UserInput;
 
 import java.util.Scanner;
 

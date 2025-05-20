@@ -1,6 +1,6 @@
 package goods;
 
-import Utils.UserInput;
+import utils.UserInput;
 
 public class GoodsService {
 
